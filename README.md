@@ -9,7 +9,7 @@ The precognitive classification means that the most informative part of the sign
 These texts test various hypotheses and models on the EEG ERP data. They are sorted by date, weekly.
 1. [EEG Feature search through all electrodes, May 30](text/EEG_Feature_search_through_all_electrodes_May30.pdf)
 2. [EEG expert-engineered features, May 23](text/EEG_expert-engineered_features_May23.pdf)
-3. [EEG expert features for GP classification, May17](text/EEG_expert_features_for_GP_classification_May17.pdf)
+3. [EEG expert features for GP classification, May 17](text/EEG_expert_features_for_GP_classification_May17.pdf)
 4. [EEG exploring the time-window feature, May 9](text/EEG_exploring_the_time-window_feature_May9.pdf)
 5. [EEG user behavior analysis, May 2](text/EEG_user_behavior_analysis_May2.pdf)
 6. [EEG exhaustive model comparison, Apr 26](text/EEG_exhaustive_model_comparison_Apr26.pdf)
@@ -48,4 +48,4 @@ Scripts to load recorded raw or preprocessed  EEG files, sorted by ''step_'' pre
 20. [Temporary plot Biosemi cap given electrodes' flat coordinates](matlab/step6_plot_Biosemi_cap.m)
 
 ## Not included 
-- Any data files.
+Any data files.
