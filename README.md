@@ -5,11 +5,7 @@ This project makes a comprehensive comparison of several classification models. 
 
 The precognitive classification means that the most informative part of the signal is expected to be in the earliest stages of the event-related potential.
 
-
 ## Text files with computational experiment results
-
-
-## Python computational experiments
 These texts test various hypotheses and models on the EEG ERP data. They are sorted by date, weekly.
 1. [EEG Feature search through all electrodes, May 30](text/EEG_Feature_search_through_all_electrodes_May30.pdf)
 2. [EEG expert-engineered features, May 23](text/EEG_expert-engineered_features_May23.pdf)
@@ -20,6 +16,13 @@ These texts test various hypotheses and models on the EEG ERP data. They are sor
 7. [EEG ERP classification and class balance, Apr 19](text/EEG_ERP_class_balance_Apr19.pdf)
 8. [EEG computational experiment plan, Apr 12](EEG_computational_experiment_plan_Apr12.pdf)
 9. [EEG ERP precog a-priori list of possible models, Apr 4](text/EEG_project_research_a-proiri_plan_Apr4.pdf)
+
+## Python computational experiments
+Notebooks with the sourse code of computational experiments listed above.
+1. [Expert-engineered feature search over all electrodes, May 30](experiment/EEG_over_all_electrodes_May30.ipynb)
+2. [Plot AUC of reduced number of classifiers, May 23](experiment/EEG_expert_features_S3_May23.ipynb)
+3. [Exhaustive model comparison, Apr 30](experiment/EEG_three_classifiers_reported_Apr30.ipynb)
+4. [Genetic algorithm for feature selection](experiment/Genetic_Genetic_feature_selection_debug.ipynb) and [demo](experiment/Genetic_feature_selection_demo.ipynb)
 
 ## Matlab collection and visualization
 Scripts to load recorded raw or preprocessed  EEG files, sorted by ''step_'' prefix
