@@ -11,15 +11,15 @@ The precognitive classification means that the most informative part of the sign
 
 ## Python computational experiments
 These texts test various hypotheses and models on the EEG ERP data. They are sorted by date, weekly.
-9. [EEG Feature search through all electrodes, May 30](text/EEG_Feature_search_through_all_electrodes_May30.pdf)
-8. [EEG expert-engineered features, May 23](text/EEG_expert-engineered_features_May23.pdf)
-7. [EEG expert features for GP classification, May17](text/EEG_expert_features_for_GP_classification_May17.pdf)
-6. [EEG exploring the time-window feature, May 9](text/EEG_exploring_the_time-window_feature_May9.pdf)
+1. [EEG Feature search through all electrodes, May 30](text/EEG_Feature_search_through_all_electrodes_May30.pdf)
+2. [EEG expert-engineered features, May 23](text/EEG_expert-engineered_features_May23.pdf)
+3. [EEG expert features for GP classification, May17](text/EEG_expert_features_for_GP_classification_May17.pdf)
+4. [EEG exploring the time-window feature, May 9](text/EEG_exploring_the_time-window_feature_May9.pdf)
 5. [EEG user behavior analysis, May 2](text/EEG_user_behavior_analysis_May2.pdf)
-4. [EEG exhaustive model comparison, Apr 26](text/EEG_exhaustive_model_comparison_Apr26.pdf)
-3. [EEG ERP classification and class balance, Apr 19](text/EEG_ERP_class_balance_Apr19.pdf)
-2. [EEG computational experiment plan, Apr 12](EEG_computational_experiment_plan_Apr12.pdf)
-1. [EEG ERP precog a-priori list of possible models, Apr 4](text/EEG_project_research_a-proiri_plan_Apr4.pdf)
+6. [EEG exhaustive model comparison, Apr 26](text/EEG_exhaustive_model_comparison_Apr26.pdf)
+7. [EEG ERP classification and class balance, Apr 19](text/EEG_ERP_class_balance_Apr19.pdf)
+8. [EEG computational experiment plan, Apr 12](EEG_computational_experiment_plan_Apr12.pdf)
+9. [EEG ERP precog a-priori list of possible models, Apr 4](text/EEG_project_research_a-proiri_plan_Apr4.pdf)
 
 ## Matlab collection and visualization
 Scripts to load recorded raw or preprocessed  EEG files, sorted by ''step_'' prefix
