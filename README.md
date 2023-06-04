@@ -11,7 +11,7 @@ The precognitive classification means that the most informative part of the sign
 
 ## Python computational experiments
 These texts test various hypotheses and models on the EEG ERP data. They are sorted by date, weekly.
-- [Feature search through all electrodes](text/EEG Feature search through all electrodes, May 30.pdf)
+- [Feature search through all electrodes](text/EEG_Feature_search_through_all_electrodes_May30.pdf)
 - [Recognition Old-New words all models, all users, Apr 26](text/)
 - [ERP classification accuracy for various tasks, Apr 19](text/)
 - [Four class experiment and  classification accuracy for various tasks, Apr 12](text/)
