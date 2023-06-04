@@ -9,14 +9,22 @@ The precognitive classification means that the most informative part of the sign
 ## Text files with computational experiment results
 
 
-## Matlab auxiliary files 
+## Python computational experiments
+These texts test various hypotheses and models on the EEG ERP data. They are sorted by date, weekly.
+- [Feature search through all electrodes](text/EEG Feature search through all electrodes [May 30])
+- [Recognition Old-New words all models, all users, Apr 26](text/)
+- [ERP classification accuracy for various tasks, Apr 19](text/)
+- [Four class experiment and  classification accuracy for various tasks, Apr 12](text/)
+- [ERP precog project with an a-priori description of possible models, Apr 4](text/)
+
+## Matlab collection and visualization
 Scripts to load recorded raw or preprocessed  EEG files, sorted by '''step_''' prefix
 - [Collect data from Neuropype .mat](matlab/step1_collect_from_neurop.m)
 - [Collect and segment data from Verbem raw time](matlab/step1_collect_from_raw.m)
 - [Collect segmented data from prepared flat data](matlab/step1_collect_from_umn.m)
 - [Convert former target data to new target format](matlab/step1_convert_raw_to_neurop.m)
 - [Three-line script shows to problem of user's second  response](matlab/step2_show_2nd_responses.m)
-- [Plot average response time for all users, first responses)(matlab/step2a_plot_time_to_response.m)
+- [Plot average response time for all users, first responses](matlab/step2a_plot_time_to_response.m)
 - [Short script to smooth source matrix](matlab/step2b_smooth_data.m)
 - [Analysis of number of changes in user's responses](matlab/step2c_table_time_to_2nd_responses.m)
 - [Count users' responses for class balance](matlab/step3_count_responces.m)
@@ -31,3 +39,6 @@ Scripts to load recorded raw or preprocessed  EEG files, sorted by '''step_''' p
 - [The experiment on the optimal time to find ERP segment ](matlab/step5b_plot_timesegment_auc.m)
 - [Plot original Biosemi cap coordinates in 3d and stereographic projection](matlab/step6_plot_electrode_hat.m)
 - [Temporary plot Biosemi cap given electrodes' flat coordinates](matlab/step6_plot_Biosemi_cap.m)
+
+## Not included 
+- Any data files.
