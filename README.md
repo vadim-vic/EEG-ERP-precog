@@ -22,7 +22,7 @@ These texts test various hypotheses and models on the EEG ERP data. They are sor
 - [EEG ERP precog a-priori list of possible models, Apr 4](text/EEG_project_research_a-proiri_plan_Apr4.pdf)
 
 ## Matlab collection and visualization
-Scripts to load recorded raw or preprocessed  EEG files, sorted by '''step_''' prefix
+Scripts to load recorded raw or preprocessed  EEG files, sorted by ''step_'' prefix
 - [Collect data from Neuropype .mat](matlab/step1_collect_from_neurop.m)
 - [Collect and segment data from Verbem raw time](matlab/step1_collect_from_raw.m)
 - [Collect segmented data from prepared flat data](matlab/step1_collect_from_umn.m)
