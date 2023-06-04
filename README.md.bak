@@ -13,16 +13,16 @@ The precognitive classification means that the most informative part of the sign
 These texts test various hypotheses and models on the EEG ERP data. They are sorted by date, weekly.
 - [EEG Feature search through all electrodes, May 30](text/EEG_Feature_search_through_all_electrodes_May30.pdf)
 - [EEG expert-engineered features, May 23](text/EEG_expert-engineered_features_May23.pdf)
-- [EEG expert features for GP classification, May12](text/EEG_expert_features_for_GP_classification_May12.pdf)
+- [EEG expert features for GP classification, May17](text/EEG_expert_features_for_GP_classification_May17.pdf)
 - [EEG exploring the time-window feature, May 9](text/EEG_exploring_the_time-window_feature_May9.pdf)
 - [EEG user behavior analysis, May 2](text/EEG_user_behavior_analysis_May2.pdf)
-- [EEG exhaustive model comparison, Apr 26](text/EEG_exhaustive_model_comparison_Apr26.pdf)
-- [EEG ERP classification and class balance, Apr 19](text/EEG_ERP_class_balance_Apr19.pdf)
-- [EEG computational experiment plan, Apr 12](EEG_computational_experiment_plan_Apr12.pdf)
-- [ERP precog project with an a-priori list of possible models, Apr 4](text/EEG_project_research_a-proiri_plan_Apr4.pdf)
+-4.[EEG exhaustive model comparison, Apr 26](text/EEG_exhaustive_model_comparison_Apr26.pdf)
+3. [EEG ERP classification and class balance, Apr 19](text/EEG_ERP_class_balance_Apr19.pdf)
+2. [EEG computational experiment plan, Apr 12](EEG_computational_experiment_plan_Apr12.pdf)
+1. [EEG ERP precog a-priori list of possible models, Apr 4](text/EEG_project_research_a-proiri_plan_Apr4.pdf)
 
 ## Matlab collection and visualization
-Scripts to load recorded raw or preprocessed  EEG files, sorted by '''step_''' prefix
+Scripts to load recorded raw or preprocessed  EEG files, sorted by ''step_'' prefix
 - [Collect data from Neuropype .mat](matlab/step1_collect_from_neurop.m)
 - [Collect and segment data from Verbem raw time](matlab/step1_collect_from_raw.m)
 - [Collect segmented data from prepared flat data](matlab/step1_collect_from_umn.m)
