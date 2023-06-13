@@ -7,6 +7,7 @@ The precognitive classification means that the most informative part of the sign
 
 ## Text files with computational experiment results
 These texts test various hypotheses and models on the EEG ERP data. They are sorted by date, weekly.
+1. [EEG DGD space-time literature and code, June 12](text/EEG_DGD_model_review_Jun12.pdf]
 1. [EEG Feature search through all electrodes, May 30](text/EEG_Feature_search_through_all_electrodes_May30.pdf)
 2. [EEG expert-engineered features, May 23](text/EEG_expert-engineered_features_May23.pdf)
 3. [EEG expert features for GP classification, May 17](text/EEG_expert_features_for_GP_classification_May17.pdf)
@@ -14,7 +15,7 @@ These texts test various hypotheses and models on the EEG ERP data. They are sor
 5. [EEG user behavior analysis, May 2](text/EEG_user_behavior_analysis_May2.pdf)
 6. [EEG exhaustive model comparison, Apr 26](text/EEG_exhaustive_model_comparison_Apr26.pdf)
 7. [EEG ERP classification and class balance, Apr 19](text/EEG_ERP_class_balance_Apr19.pdf)
-8. [EEG computational experiment plan, Apr 12](text/EEG_computational_experiment_plan_Apr12.pdf)
+8. [EEG computational experiment plan, Apr 12](EEG_computational_experiment_plan_Apr12.pdf)
 9. [EEG ERP precog a-priori list of possible models, Apr 4](text/EEG_project_research_a-proiri_plan_Apr4.pdf)
 
 ## Python computational experiments
@@ -23,7 +24,7 @@ Notebooks with the sourse code of computational experiments listed above.
 2. [Plot AUC of reduced number of classifiers, May 23](experiment/EEG_expert_features_S3_May23.ipynb)
 3. [Exhaustive model comparison, Apr 30](experiment/EEG_three_classifiers_reported_Apr30.ipynb)
 4. [Genetic algorithm for feature selection](experiment/Genetic_Genetic_feature_selection_debug.ipynb) and [demo](experiment/Genetic_feature_selection_demo.ipynb)
-
+5. [Function to plot spatial signal structure on the BioSemo 128 cap](experiment/plot_biosemi128.ipynb)
 ## Matlab collection and visualization
 Scripts to load recorded raw or preprocessed  EEG files, sorted by ''step_'' prefix
 1. [Collect data from Neuropype .mat](matlab/step1_collect_from_neurop.m)
