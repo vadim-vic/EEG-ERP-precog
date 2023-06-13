@@ -7,7 +7,7 @@ The precognitive classification means that the most informative part of the sign
 
 ## Text files with computational experiment results
 These texts test various hypotheses and models on the EEG ERP data. They are sorted by date, weekly.
-1. [EEG DGD space-time literature and code, June 12](text/EEG_DGD_model_review_Jun12.pdf]
+1. [EEG DGD space-time literature and code, June 12](text/EEG_DGD_model_review_Jun12.pdf)
 1. [EEG Feature search through all electrodes, May 30](text/EEG_Feature_search_through_all_electrodes_May30.pdf)
 2. [EEG expert-engineered features, May 23](text/EEG_expert-engineered_features_May23.pdf)
 3. [EEG expert features for GP classification, May 17](text/EEG_expert_features_for_GP_classification_May17.pdf)
