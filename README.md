@@ -15,8 +15,8 @@ These texts test various hypotheses and models on the EEG ERP data. They are sor
 5. [EEG user behavior analysis, May 2](text/EEG_user_behavior_analysis_May2.pdf)
 6. [EEG exhaustive model comparison, Apr 26](text/EEG_exhaustive_model_comparison_Apr26.pdf)
 7. [EEG ERP classification and class balance, Apr 19](text/EEG_ERP_class_balance_Apr19.pdf)
-8. [EEG computational experiment plan, Apr 12](EEG_computational_experiment_plan_Apr12.pdf)
-9. [EEG ERP precog a-priori list of possible models, Apr 4](text/EEG_project_research_a-proiri_plan_Apr4.pdf)
+8. [EEG computational experiment plan, Apr 12](text/EEG_computational_experiment_plan_Apr12.pdf)
+10. [EEG ERP precog a-priori list of possible models, Apr 4](text/EEG_project_research_a-proiri_plan_Apr4.pdf)
 
 ## Python computational experiments
 Notebooks with the sourse code of computational experiments listed above.
